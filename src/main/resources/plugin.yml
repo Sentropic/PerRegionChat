@@ -1,5 +1,5 @@
 name: PerRegionChat
-version: 1.3
+version: ${project.version}
 main: com.craftec.perregionchat.PerRegionChat
 api-version: 1.13
 depend: [WorldGuard]
