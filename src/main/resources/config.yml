@@ -1,0 +1,3 @@
+Restrict chat by default: false
+Send unrestricted chat to restricted regions: false
+Override vanilla /teammsg and /tm commands: false
